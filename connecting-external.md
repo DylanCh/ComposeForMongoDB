@@ -31,7 +31,7 @@ For in depth application and driver support, check out the appropriate documenta
 * [Ruby](#ruby-mongodb-and-compose)
 * [Python](#python-mongodb-and-compose)
 * [PHP](#php-mongodb-and-compose)
-* [C# and .NET](#c--net-mongodb-and-compose)
+* [C# and .NET](#c-net)
 
 If you're looking for languages that you do not see above, try the [MongoDB.org Driver List](http://www.mongodb.org/display/DOCS/Drivers).
 {: tip}
